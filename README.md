@@ -90,4 +90,4 @@ prompt 4: I'm 10th standard school boy. Explain Quantum optics <br>
           Applications: Used in lasers, quantum computers, secure communication, and even experiments on entanglement and teleportation. <br>
           Key idea: It connects quantum mechanics with optics, showing how the smallest units of light behave in surprising ways. <br> 
 ## RESULT:
-
+Above are the outputs which is given AI tools according to the following prompts such as zero-shot, few-shot, chain-of-thought and role-based.
